@@ -34,10 +34,8 @@ Mas não me limito só a isso. Estou sempre estudando coisas novas.
 ## 📊 Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=montezuma-p&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montezuma-p&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=montezuma-p&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
