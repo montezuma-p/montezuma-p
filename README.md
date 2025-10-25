@@ -1,23 +1,15 @@
 # **Backend & DevOps** | Rio de Janeiro 🇧🇷
 
-Curto mexer com servidor, infraestrutura e fazer as coisas funcionarem nos bastidores. Tô focado em **Backend** e **DevOps**.
+Curto mexer com servidor, infraestrutura e fazer as coisas funcionarem nos bastidores. Desenvolvendo ferramentas de automação e monitoramento que resolvem problemas reais.
 
 ## 🎯 O que eu faço
 
 - 💻 Desenvolvimento Backend (APIs, microsserviços, databases)
 - ⚙️ DevOps & Infra (Docker, CI/CD, automação, Linux)
-- 🔧 Automação de tudo que dá pra automatizar
-- 🐧 Configuração de sistemas Linux e virtualização
+- 🤖 Integração de IA em ferramentas de sistema
+- 🐧 Configuração de ambientes Linux e virtualização avançada
 
 ## 🛠️ Tech Stack
-
-Atualmente uso mais:
-- **Python**
-- **JavaScript**
-- **Shell Script**
-
-Mas não me limito só a isso. Estou sempre estudando coisas novas.
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -25,11 +17,33 @@ Mas não me limito só a isso. Estou sempre estudando coisas novas.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📂 Alguns projetos
+## � Projetos em Destaque
 
-- 🤖 **[iaprojeto-setup](https://github.com/montezuma-p/iaprojeto-setup)** - Gera estrutura de projetos com IA do Gemini
-- 🖥️ **[my-systems-showcase](https://github.com/montezuma-p/my-systems-showcase)** - Docs dos meus setups Linux e labs de virtualização
-- 🔧 **[utils-python-scripts](https://github.com/montezuma-p/utils-python-scripts)** - Scripts úteis de automação
+### 📊 [Monitor Linux IA](https://github.com/montezuma-p/monitor_linux_ia)
+Sistema completo de monitoramento de servidores Linux com análise inteligente via IA Gemini. Transforma métricas técnicas brutas em relatórios HTML humanizados com insights acionáveis.
+
+**Tech:** Python • Gemini API • psutil • HTML/CSS
+
+---
+
+### 🤖 [IA Projeto Setup](https://github.com/montezuma-p/iaprojeto-setup)
+Gerador automático de estrutura de projetos usando IA. Templates prontos para Python, Node.js, Next.js, Fullstack e capacidade de criar setups personalizados.
+
+**Tech:** Python • Gemini API
+
+---
+
+### 🖥️ [My Systems Showcase](https://github.com/montezuma-p/my-systems-showcase)
+Documentação completa de setups Linux: dual-boot profissional, laboratório KVM/QEMU, ambiente isolado de pentesting e configuração Whonix/Tor para privacidade.
+
+**Tech:** Shell Script • KVM/QEMU • Linux
+
+---
+
+### 🔧 [Utils Python Scripts](https://github.com/montezuma-p/utils-python-scripts)
+Coleção de scripts de automação: backup inteligente com compressão e versionamento, limpeza de disco, gerador de senhas e username com IA.
+
+**Tech:** Python • Gemini API
 
 ## 📊 Stats
 
