@@ -1,240 +1,241 @@
-<!-- ============================================ -->
-<!-- HEADER ANIMADO COM TYPING EFFECT -->
-<!-- ============================================ -->
-
 <div align="center">
-  
-<!-- Banner com gradiente -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pedro%20Montezuma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20%7C%20DevOps%20%7C%20Linux%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-<!-- Typing effect animado -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=435&lines=Backend+Developer+%F0%9F%92%BB;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Linux+%26+Automation+Lover+%F0%9F%90%A7;Building+Tools+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Banner animado com typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Oi!+Eu+sou+o+Montezuma+%F0%9F%91%8B;Entusiasta+Linux+%F0%9F%90%A7;Integra%C3%A7%C3%A3o+com+IA+%F0%9F%A4%96;Desenvolvimento+Backend+%F0%9F%90%8D;Scripts+Maneiros+%E2%9A%A1" alt="Typing SVG" />
 
-<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF3N3N5dDJ5cjJkM2Q0ZW5vOGk2bGVzaWZrbXVoMGg5YnN4YnBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 
-<!-- Badge localização -->
-<img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brazil-green?style=for-the-badge&logo=google-maps&logoColor=white"/>
+### 🌴 rio de janeiro, brasil | 🚀 fazendo servidores funcionarem
+
+[![Profile Views](https://komarev.com/ghpvc/?username=montezuma-p&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/montezuma-p)
 
 </div>
 
-<br/>
-
-<!-- ============================================ -->
-<!-- ABOUT ME COM AVATAR -->
-<!-- ============================================ -->
+---
 
 <div align="center">
 
-## 👨‍💻 Sobre Mim
-
-<!-- AVATAR: Cole aqui o link da sua foto do GitHub ou qualquer imagem -->
-<!-- Formato: https://github.com/SEU_USUARIO.png -->
-<img src="https://github.com/montezuma-p.png" width="200px" style="border-radius: 50%; border: 3px solid #00D9FF;" alt="Avatar"/>
-
-<br/><br/>
-
-**Desenvolvedor Backend & DevOps apaixonado por automação e infraestrutura.**
-
-Transformo problemas complexos em soluções elegantes, com foco em ferramentas que realmente fazem diferença no dia a dia. Curto mexer com servidores, criar scripts inteligentes e integrar IA onde faz sentido.
-
-🔭 Atualmente trabalhando em **ferramentas de monitoramento inteligente**  
-🌱 Explorando **IA aplicada a DevOps** e **automação avançada**  
-⚡ Mantra: *"Se dá pra automatizar, por que fazer manual?"*
+## 💀 sobre esse dev maluco 💀
 
 </div>
 
-<br/>
+```python
+class Montezuma:
+    def __init__(self):
+        self.name = "Pedro Montezuma"
+        self.role = "Backend & DevOps Engineer"
+        self.location = "Rio de Janeiro 🇧🇷"
+        self.languages = ["Python", "JavaScript", "Shell Script"]
+        self.currently_learning = ["Integração de IA", "Arquitetura de Sistemas"]
+        self.hobbies = ["Quebrar servidores", "Consertar servidores", "Linux ricing"]
+    
+    def say_hi(self):
+        print("Valeu pela visita! Bora construir algo dahora juntos 🚀")
 
-<!-- ============================================ -->
-<!-- TECH STACK COM BADGES ANIMADOS -->
-<!-- ============================================ -->
+me = Montezuma()
+me.say_hi()
+```
 
 <div align="center">
 
-## 🛠️ Arsenal Tecnológico
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ6OGRhZ3ZoMWM3bGsxdTd5cHo4eHNxcWt6OWt6ZGVsbTg2OGNhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="rick and morty coding"/>
 
-### 💻 Linguagens
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 o que eu faço (e faço bem) 🔥
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 **desenvolvimento backend**
+Construindo APIs robustas, microsserviços  
+e arquiteturas de banco de dados escaláveis
+
+_building robust APIs, microservices and scalable database architectures_
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZ4dTg4dGh5M3p3cWFyMnRib2tmNGhzemN4ZHczd2RtdmZ5b3FlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ **devops & infraestrutura**
+Docker, CI/CD, automação  
+Fazendo deploys mais suaves que manteiga
+
+_making deployments smooth as butter_
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZ6aG1maHRqMzh6M3dzZWVsbmRieDN6enFxaWJ6YW1vNzFvbDJ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="200"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🤖 **integração de IA**
+Trazendo superpoderes de IA  
+para ferramentas do dia a dia
+
+_bringing AI superpowers to everyday tools_
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVxaTJ1Y2gxanNxZjRkbW9wNHZ1Ym5sdnd1emVwOG9sY3F3dW1haCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQ4kcSD1PLM3BK/giphy.gif" width="200"/>
+
+</td>
+<td align="center">
+
+### 🐧 **maestria em linux**
+Configuração de sistemas, virtualização  
+e fazendo o Arch dizer "btw"
+
+_system configuration, virtualization and making Arch say "btw"_
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxiOXk1dnZxbTR2anI5YnJzYTlhZmZ4N2toc3k1bXdkdXJmZDl0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="200"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ arsenal tecnológico 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🚀 DevOps & Cloud
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🤖 IA & Frameworks
-
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FqMGN3ejNrZHQzYnVwa3E1eXg3MGJ4ZHFxaHcyY3IwZmhlbnZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 
 </div>
-
-<br/>
-
-<!-- ============================================ -->
-<!-- PROJETOS EM DESTAQUE COM CARDS VISUAIS -->
-<!-- ============================================ -->
-
-<div align="center">
-
-## 🚀 Projetos em Destaque
-
-</div>
-
-<!-- Projeto 1: Monitor Linux IA -->
-<div align="center">
-
-### 📊 Monitor Linux IA
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montezuma-p&repo=monitor_linux_ia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/montezuma-p/monitor_linux_ia)
-
-**Sistema completo de monitoramento de servidores Linux com análise inteligente via IA Gemini.**  
-Transforma métricas técnicas brutas em relatórios HTML humanizados com insights acionáveis.
-
-`Python` `Gemini API` `psutil` `HTML/CSS` `System Monitoring`
 
 ---
 
-</div>
-
-<!-- Projeto 2: IA Projeto Setup -->
 <div align="center">
 
-### 🤖 IA Projeto Setup
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montezuma-p&repo=iaprojeto-setup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/montezuma-p/iaprojeto-setup)
+## 🎯 projetos em destaque 🎯
 
-**Gerador automático de estrutura de projetos usando IA.**  
-Templates prontos para Python, Node.js, Next.js, Fullstack e capacidade de criar setups personalizados.
+</div>
 
-`Python` `Gemini API` `Project Scaffolding` `Automation`
+<div align="center">
+
+### 📊 [monitor linux ia](https://github.com/montezuma-p/monitor_linux_ia)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBveGlsN21heHVxOGlmcjRtYzA0YjJrMTVucTRoZ2k2a29uYTdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+
+**sistema completo de monitoramento linux com análise via IA**
+
+Transforma métricas brutas de servidor em relatórios HTML bonitos com insights acionáveis.  
+Porque ficar olhando logs crus é coisa de 2010.
+
+_transforms raw server metrics into beautiful HTML reports with actionable insights_
+
+`Python` `Gemini API` `psutil` `HTML/CSS`
 
 ---
 
-</div>
+### 🤖 [ia projeto setup](https://github.com/montezuma-p/iaprojeto-setup)
 
-<!-- Projeto 3: My Systems Showcase -->
-<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JjcTN1bXNiNGF6dWp5eWc2enFoZmJxdXdkb2VlbnQxcnc4N3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 
-### 🖥️ My Systems Showcase
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montezuma-p&repo=my-systems-showcase&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/montezuma-p/my-systems-showcase)
+**ferramenta de scaffolding de projetos com IA**
 
-**Documentação completa de setups Linux avançados.**  
-Dual-boot profissional, laboratório KVM/QEMU, ambiente isolado de pentesting e configuração Whonix/Tor.
+Para de perder tempo criando estrutura de pastas manualmente.  
+Deixa a IA fazer a parte chata enquanto você coda.
 
-`Shell Script` `KVM/QEMU` `Linux` `Virtualization` `Security`
+_stop wasting time creating folder structures manually_
+
+`Python` `Gemini API` `Automation`
 
 ---
 
-</div>
+### 🖥️ [my systems showcase](https://github.com/montezuma-p/my-systems-showcase)
 
-<!-- Projeto 4: Utils Python Scripts -->
-<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVlYXdmaDR6MnN6anh2cTdjMWNnZGdubnE5ZWFqM3VuZ2pxemx2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPnAAJxXTvpLwJy/giphy.gif" width="300"/>
 
-### 🔧 Utils Python Scripts
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montezuma-p&repo=utils-python-scripts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/montezuma-p/utils-python-scripts)
+**documentação completa dos meus setups linux**
 
-**Coleção de scripts de automação poderosos.**  
-Backup inteligente com compressão e versionamento, limpeza de disco, gerador de senhas e username com IA.
+Configs de dual-boot, labs KVM/QEMU, ambientes de pentesting, setups Whonix/Tor de privacidade.  
+Tudo que você precisa pra montar um playground Linux maneiro.
 
-`Python` `Gemini API` `Automation` `CLI Tools`
+_everything you need to build a sick Linux playground_
 
-</div>
+`Shell Script` `KVM/QEMU` `Security` `Virtualization`
 
-<br/>
+---
 
-<!-- ============================================ -->
-<!-- GITHUB STATS ANIMADOS -->
-<!-- ============================================ -->
+### 🔧 [utils python scripts](https://github.com/montezuma-p/utils-python-scripts)
 
-<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqeGtvaHNpaHljaGI5dG82OTJhOGI1YjRkaGpqaXdzeGhuZGVqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-## 📊 GitHub Analytics
+**coleção de scripts de automação que realmente funcionam**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=montezuma-p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montezuma-p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
+Backup inteligente com versionamento, limpeza de disco, geradores de senha/username com IA.  
+Automatizando as paradas chatas desde... recentemente.
 
-<br/>
+_automating the boring stuff since... recently_
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=montezuma-p&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-<br/><br/>
-
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=montezuma-p&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+`Python` `Gemini API` `Automation`
 
 </div>
 
-<br/>
-
-<!-- ============================================ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ============================================ -->
+---
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📊 estatísticas do github 📊
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=montezuma-p&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montezuma-p&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=montezuma-p&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" alt="GitHub Streak" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5wNGY5MnhqNWlxdGdxajcxbWh2eTd0OWV6dWFlOWZ1M3c4YTlzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
 </div>
 
-<br/>
-
-<!-- ============================================ -->
-<!-- CONTATO E REDES SOCIAIS -->
-<!-- ============================================ -->
+---
 
 <div align="center">
 
-## 📫 Vamos Conversar?
+## 🎮 quando não tô codando... 🎮
 
-**Sempre aberto para trocar ideias sobre Backend, DevOps, automação e projetos interessantes!**
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFkdGhiZDRhcWk2OWx0bWJ4cHUzYzk5MnB5anZyaGc0YjlpZ3I3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" width="400"/>
 
-<br/>
+provavelmente tô:
+- 🔧 quebrando meu setup linux (e consertando)
+- 📚 lendo docs às 3 da manhã
+- 🎯 automatizando coisas que não precisam de automação
+- 🌮 pensando em tacos
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 bora se conectar! 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montezuma-p/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/montezuma-p/s/J0TNbbzZaC)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/montezuma-p)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromontezumaloureiro@gmail.com)
 
-<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZpZGNjeG9kOG92amhqZnFkaDRqcGtqcmI2YThyM2Jidmw1cTY3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
 
-### 💡 *"Automatize hoje o que você não quer fazer amanhã."*
+### 🚀 **bora construir algo dahora juntos!** 🚀
 
-</div>
-
-<br/>
-
-<!-- ============================================ -->
-<!-- FOOTER COM SNAKE ANIMATION -->
-<!-- ============================================ -->
-
-<div align="center">
-
-<!-- Snake comendo as contribuições -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/montezuma-p/montezuma-p/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/montezuma-p/montezuma-p/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/montezuma-p/montezuma-p/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Valeu%20pela%20visita!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 </div>
