@@ -28,6 +28,7 @@ class Montezuma:
         self.languages = ["Python", "JavaScript", "Shell Script"]
         self.currently_learning = ["Integração de IA", "Arquitetura de Sistemas"]
         self.hobbies = ["Quebrar servidores", "Consertar servidores", "Linux ricing"]
+        self.team = "Vasco da Gama ⚫⚪"
     
     def say_hi(self):
         print("Valeu pela visita! Bora construir algo dahora juntos 🚀")
@@ -218,7 +219,7 @@ provavelmente tô:
 - 🔧 quebrando meu setup linux (e consertando)
 - 📚 lendo docs às 3 da manhã
 - 🎯 automatizando coisas que não precisam de automação
-- 🌮 pensando em tacos
+- ⚫⚪ pensando no Vasco
 
 </div>
 
