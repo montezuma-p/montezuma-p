@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## 💀 sobre esse dev maluco 💀
+## 🫥 quem sou eu 🫥
 
 </div>
 
