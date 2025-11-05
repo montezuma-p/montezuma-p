@@ -191,6 +191,21 @@ _automating the boring stuff since... recently_
 
 `Python` `Gemini API` `Automation`
 
+---
+
+### 🧹 [linux storage manager](https://github.com/montezuma-p/linux-storage-manager)
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFwaWhyd2lpdnBmMHV1d3Ewb2Fjc3VrenN0ZDdtNmw0emh3eXZtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rkis28kMJd1aE/giphy.gif" width="300"/>
+
+**sistema completo de gerenciamento e limpeza de storage**
+
+Disco cheio? Esse cara limpa node_modules antigos, arquiva com políticas de retenção automáticas,  
+compacta tudo num lixão organizado e ainda restaura quando você precisar. Nunca mais fique sem espaço.
+
+_never run out of disk space again_
+
+`Python` `Storage Management` `Automation` `Linux`
+
 </div>
 
 ---
