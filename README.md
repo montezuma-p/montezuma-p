@@ -178,18 +178,18 @@ _everything you need to build a sick Linux playground_
 
 ---
 
-### 🔧 [utils python scripts](https://github.com/montezuma-p/utils-python-scripts)
+### � [backup universal](https://github.com/montezuma-p/backup-universal)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpqeGtvaHNpaHljaGI5dG82OTJhOGI1YjRkaGpqaXdzeGhuZGVqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlrZXJjNm90ZGZid2VqcTNpeXp4bWI3aThsaHp0bWczcW82Z3JoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="300"/>
 
-**coleção de scripts de automação que realmente funcionam**
+**sistema inteligente de backup para linux**
 
-Backup inteligente com versionamento, limpeza de disco, geradores de senha/username com IA.  
-Automatizando as paradas chatas desde... recentemente.
+Detecta tipos de projeto, compacta com exclusões automáticas (adeus node_modules!),  
+mantém índice completo e restaura quando você precisar. Porque perder dados é coisa do passado.
 
-_automating the boring stuff since... recently_
+_because losing data is so 2010_
 
-`Python` `Gemini API` `Automation`
+`Python` `Backup` `Automation` `Data Protection`
 
 ---
 
