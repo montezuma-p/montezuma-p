@@ -193,9 +193,9 @@ _everything you need to build a sick Linux playground_
 
 ---
 
-### � [backup universal](https://github.com/montezuma-p/backup-universal)
+### 💾 [backup universal](https://github.com/montezuma-p/backup-universal)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlrZXJjNm90ZGZid2VqcTNpeXp4bWI3aThsaHp0bWczcW82Z3JoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVpaWd5ZmZjNzNrNzMwMmpmd29xeDJhemJ4azczM3Y4MTc1OTN2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EmeieJAGjvUI/giphy.gif" width="300"/>
 
 **sistema inteligente de backup para linux**
 
