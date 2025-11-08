@@ -148,6 +148,21 @@ _transforms raw server metrics into beautiful HTML reports with actionable insig
 
 ---
 
+### 📦 [dnf ai analyzer](https://github.com/montezuma-p/dnf-ai-analyzer)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNzc2doeWg4eWE0em0xNGI0NjJpN3hiM3pkcDFjdWhydGpyNjJkNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3JUbUwGIVk7p6mad9t/giphy.gif" width="300"/>
+
+**análise inteligente de pacotes para fedora linux**
+
+Gerenciar pacotes nunca foi tão fácil. Detecta updates de segurança, pacotes órfãos, problemas de cache  
+e transforma tudo em relatórios HTML lindos com recomendações da IA. Porque ler saída do DNF é chato.
+
+_because reading DNF output is boring_
+
+`Python` `Gemini API` `DNF` `Fedora` `HTML/CSS`
+
+---
+
 ### 🤖 [ia projeto setup](https://github.com/montezuma-p/iaprojeto-setup)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JjcTN1bXNiNGF6dWp5eWc2enFoZmJxdXdkb2VlbnQxcnc4N3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
