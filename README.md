@@ -1,13 +1,75 @@
 <div align="center">
 
 <!-- Banner animado com typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Oi!+Eu+sou+o+Montezuma+%F0%9F%91%8B;Entusiasta+Linux+%F0%9F%90%A7;Integra%C3%A7%C3%A3o+com+IA+%F0%9F%A4%96;Desenvolvimento+Backend+%F0%9F%90%8D;Scripts+Maneiros+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Oi!+Eu+sou+o+Montezuma+%F0%9F%91%8B;Security+%26+DevOps+Engineer+%F0%9F%94%92;Arquiteto+de+Sistemas+Linux+%F0%9F%90%A7;Integra%C3%A7%C3%A3o+com+IA+%F0%9F%A4%96;Construindo+Ferramentas+Fodas+%E2%9A%A1" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF3N3N5dDJ5cjJkM2Q0ZW5vOGk2bGVzaWZrbXVoMGg5YnN4YnBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 
-### 🌴 rio de janeiro, brasil | 🚀 fazendo servidores funcionarem
+### 🌴 rio de janeiro, brasil 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=montezuma-p&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/montezuma-p)
+
+</div>
+
+---
+
+<!-- SEÇÃO HERO - PROJETO FLAGSHIP -->
+<div align="center">
+
+## 🔥 PROJETO EM DESTAQUE 🔥
+
+### 🔒 [Security Audit System](https://github.com/montezuma-p/security-audit-system)
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="500" alt="security hacking"/>
+
+</div>
+
+> ### 🛡️ **Sistema Profissional de Auditoria de Segurança para Linux**
+> 
+> **7 módulos independentes** monitoram sua infraestrutura completa:  
+> 🔌 Portas & Serviços • 🔐 Autenticação • 🛡️ Firewall & SELinux  
+> ⚠️ Vulnerabilidades (CVEs) • 🌐 Rede • 📁 Permissões • 🚨 Alertas Inteligentes
+>
+> ---
+>
+> ✨ **Por que é brabo:**
+> - 📊 **Score de Segurança 0-100** com nota A-F (objetiva, não achismo)
+> - 🔐 **4 níveis de sanitização** (none/light/moderate/strict)
+> - 🎨 **Relatórios HTML profissionais** que você mostra pro chefe sem vergonha
+> - 🤖 **Análise humanizada via Gemini AI** (insights que fazem sentido)
+> - 📖 **Documentação** (ARCHITECTURE.md, SECURITY.md, CONTRIBUTING.md)
+> - 🎯 **3 modos de operação**: offline, local-html, full-ai
+> - ⚡ **Arquitetura modular** totalmente extensível
+>
+> ---
+>
+> **💻 Como usar:**
+> ```bash
+> # Modo offline - zero cloud, 100% local
+> ./security_audit.sh --no-ai
+>
+> # HTML local sem IA - privacidade total
+> ./security_audit.sh --local-html
+>
+> # Análise completa com IA - insights profundos
+> ./security_audit.sh --full --sanitize-level moderate
+> ```
+
+<div align="center">
+
+**[📖 Ver Documentação Completa](https://github.com/montezuma-p/security-audit-system) • [⭐ Star no GitHub](https://github.com/montezuma-p/security-audit-system) • [🐛 Reportar Bug](https://github.com/montezuma-p/security-audit-system/issues)**
+
+---
+
+💬 *"Não é só um script. É um sistema enterprise que você pode rodar na sua workstation."*  
+— *Um sysadmin cansado de logs crus*
+
+
+
+---
+
+**📍 NAVEGAÇÃO RÁPIDA:**  
+[👤 Sobre](#-quem-sou-eu-) • [🔥 Skills](#-o-que-eu-faço-e-faço-bem-) • [🎯 Projetos](#-arsenal-de-projetos-) •  [📊 Stats](#-estatísticas-do-github-) • [📫 Contato](#-bora-se-conectar-)
 
 </div>
 
@@ -23,12 +85,18 @@
 class Montezuma:
     def __init__(self):
         self.name = "Pedro Montezuma"
-        self.role = "Backend & DevOps Engineer"
         self.location = "Rio de Janeiro 🇧🇷"
-        self.languages = ["Python", "JavaScript", "Shell Script"]
-        self.currently_learning = ["Integração de IA", "Arquitetura de Sistemas"]
-        self.hobbies = ["Quebrar servidores", "Consertar servidores", "Linux ricing"]
+        self.languages = ["Python", "JavaScript", "Shell Script", "Bash"]
+        self.specialties = [
+            "Security Auditing & Hardening",
+            "System Automation",
+            "AI Integration", 
+            "Infrastructure as Code"
+        ]
+        self.currently_learning = ["Advanced Security", "Arquitetura de Sistemas"]
+        self.hobbies = ["Quebrar servidores", "Consertar servidores", "Linux ricing", "Auditar tudo"]
         self.team = "Vasco da Gama ⚫⚪"
+        self.life_motto = "Automatize tudo, documente sempre, compartilhe sempre"
     
     def say_hi(self):
         print("Valeu pela visita! Bora construir algo dahora juntos 🚀")
@@ -37,11 +105,7 @@ me = Montezuma()
 me.say_hi()
 ```
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ6OGRhZ3ZoMWM3bGsxdTd5cHo4eHNxcWt6OWt6ZGVsbTg2OGNhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="rick and morty coding"/>
-
-</div>
 
 ---
 
@@ -106,128 +170,177 @@ _system configuration, virtualization and making Arch say "btw"_
 
 <div align="center">
 
-## 🛠️ arsenal tecnológico 🛠️
+## 🎯 arsenal de projetos 🎯
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FqMGN3ejNrZHQzYnVwa3E1eXg3MGJ4ZHFxaHcyY3IwZmhlbnZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+*Porque código bom é código que resolve problemas de verdade*
 
 </div>
 
 ---
 
-<div align="center">
+### 🛡️ **SECURITY & SYSTEM HARDENING**
 
-## 🎯 projetos em destaque 🎯
+<details open>
+<summary><b>🔒 Security Audit System</b> — Sistema profissional de auditoria [★ VER DESTAQUE ACIMA]</summary>
 
-</div>
+<br>
 
-<div align="center">
+**O projeto mais completo do portfólio.**
 
-### 📊 [monitor linux ia](https://github.com/montezuma-p/monitor_linux_ia)
+7 módulos independentes monitoram portas, autenticação, firewall, vulnerabilidades, rede, permissões e geram alertas inteligentes. Score de segurança 0-100, sanitização multi-nível para privacidade, relatórios HTML com análise humanizada via IA.
+
+```bash
+# 3 modos de operação
+./security_audit.sh --no-ai       # Coleta local, zero cloud
+./security_audit.sh --local-html  # HTML sem IA, privacidade total  
+./security_audit.sh --full        # Análise completa com Gemini AI
+```
+
+**Stack:** `Python` `Bash` `Google Gemini API` `systemd` `firewalld` `SELinux`
+
+**Docs:** [ARCHITECTURE.md](https://github.com/montezuma-p/security-audit-system/blob/main/docs/ARCHITECTURE.md) | [SECURITY.md](https://github.com/montezuma-p/security-audit-system/blob/main/docs/SECURITY.md) | [CONTRIBUTING.md](https://github.com/montezuma-p/security-audit-system/blob/main/docs/CONTRIBUTING.md)
+
+</details>
+
+---
+
+### 📊 **MONITORING & ANALYSIS WITH AI**
+
+<details>
+<summary><b>📡 Monitor Linux IA</b> — Monitoramento de sistemas com análise humanizada</summary>
+
+<br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBveGlsN21heHVxOGlmcjRtYzA0YjJrMTVucTRoZ2k2a29uYTdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
 
-**sistema completo de monitoramento linux com análise via IA**
+Transforma métricas brutas de servidor (CPU, RAM, disco, rede, processos) em relatórios HTML bonitos com insights acionáveis gerados pela IA. Porque ficar olhando logs crus é coisa de 2010.
 
-Transforma métricas brutas de servidor em relatórios HTML bonitos com insights acionáveis.  
-Porque ficar olhando logs crus é coisa de 2010.
+**Stack:** `Python` `Gemini API` `psutil` `HTML/CSS`
 
-_transforms raw server metrics into beautiful HTML reports with actionable insights_
+**[→ Ver projeto](https://github.com/montezuma-p/monitor_linux_ia)**
 
-`Python` `Gemini API` `psutil` `HTML/CSS`
+</details>
+
+<details>
+<summary><b>📦 DNF AI Analyzer</b> — Análise inteligente de pacotes para Fedora</summary>
+
+<br>
+
+<img src="https://media.giphy.com/media/MCBhjDJ63ck9HHUCod/giphy.gif" width="300"/>
+
+Gerenciar pacotes nunca foi tão fácil. Detecta updates de segurança, pacotes órfãos, problemas de cache e transforma tudo em relatórios HTML lindos com recomendações da IA. Porque ler saída do DNF é chato.
+
+**Features:**
+- ✅ Detecta CVEs e atualizações de segurança
+- ✅ Identifica pacotes órfãos e espaço recuperável
+- ✅ Análise de cache do DNF
+- ✅ Recomendações priorizadas (crítico/médio/baixo)
+- ✅ Comandos prontos para copiar
+
+**Stack:** `Python` `Gemini API` `DNF` `Fedora` `HTML/CSS`
+
+**[→ Ver projeto](https://github.com/montezuma-p/dnf-ai-analyzer)**
+
+</details>
 
 ---
 
-### 📦 [dnf ai analyzer](https://github.com/montezuma-p/dnf-ai-analyzer)
+### 💾 **BACKUP & STORAGE MANAGEMENT**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNzc2doeWg4eWE0em0xNGI0NjJpN3hiM3pkcDFjdWhydGpyNjJkNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3JUbUwGIVk7p6mad9t/giphy.gif" width="300"/>
+<details>
+<summary><b>📦 Backup Universal</b> — Sistema inteligente de backup para Linux</summary>
 
-**análise inteligente de pacotes para fedora linux**
+<br>
 
-Gerenciar pacotes nunca foi tão fácil. Detecta updates de segurança, pacotes órfãos, problemas de cache  
-e transforma tudo em relatórios HTML lindos com recomendações da IA. Porque ler saída do DNF é chato.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlrZXJjNm90ZGZid2VqcTNpeXp4bWI3aThsaHp0bWczcW82Z3JoYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="300"/>
 
-_because reading DNF output is boring_
+Detecta tipos de projeto automaticamente (Node.js, Python, Java, Git), compacta com exclusões inteligentes (adeus `node_modules`!), mantém índice JSON completo e restaura interativamente quando você precisar.
 
-`Python` `Gemini API` `DNF` `Fedora` `HTML/CSS`
+**Features:**
+- 🎯 Detecção automática de tipo de projeto
+- 🧹 Exclusões inteligentes (node_modules, __pycache__, .git, builds, cache)
+- 🗜️ Múltiplos formatos (.tar.gz, .zip)
+- 📊 Índice JSON com metadados completos
+- 🔄 Sistema de restauração interativo
+- 📈 Estatísticas de compressão detalhadas
+- 🔒 Hash MD5 para integridade
+
+**Stack:** `Python` `tarfile` `zipfile` `hashlib`
+
+**[→ Ver projeto](https://github.com/montezuma-p/backup-universal)**
+
+</details>
+
+<details>
+<summary><b>🧹 Linux Storage Manager</b> — Gerenciamento e limpeza de storage</summary>
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnAxMGcyc3N5cm1vcHdmeTd6aTBpMWw0dnZuaXp5ajNqbTljeWw3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qvpxb0bju1rEp9Nipy/giphy.gif" width="300"/>
+
+Disco cheio? Esse cara limpa node_modules antigos, arquiva com políticas de retenção automáticas (relatórios: 15 dias, backups: top 2, logs: 7 dias), compacta tudo num lixão organizado com tags e ainda restaura quando você precisar.
+
+**Features:**
+- 🗄️ Arquivamento inteligente com políticas de retenção
+- 🗑️ Lixão compactado com tags organizadas
+- 🔄 Sistema de restauração completo
+- 📊 Metadados de cada operação
+- 🔍 Busca rápida sem descompactar
+- ⚡ Modo interativo e automático
+
+**Stack:** `Python` `Automation` `Storage Management`
+
+**[→ Ver projeto](https://github.com/montezuma-p/linux-storage-manager)**
+
+</details>
 
 ---
 
-### 🤖 [ia projeto setup](https://github.com/montezuma-p/iaprojeto-setup)
+### 🤖 **AI-POWERED TOOLS**
+
+<details>
+<summary><b>⚡ IA Projeto Setup</b> — Scaffolding de projetos com IA</summary>
+
+<br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JjcTN1bXNiNGF6dWp5eWc2enFoZmJxdXdkb2VlbnQxcnc4N3gyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 
-**ferramenta de scaffolding de projetos com IA**
+Para de perder tempo criando estrutura de pastas manualmente. Descreve seu projeto em linguagem natural e deixa a IA gerar a estrutura completa de diretórios, arquivos base e configurações.
 
-Para de perder tempo criando estrutura de pastas manualmente.  
-Deixa a IA fazer a parte chata enquanto você coda.
+**Stack:** `Python` `Gemini API` `Automation`
 
-_stop wasting time creating folder structures manually_
+**[→ Ver projeto](https://github.com/montezuma-p/iaprojeto-setup)**
 
-`Python` `Gemini API` `Automation`
+</details>
 
 ---
 
-### 🖥️ [my systems showcase](https://github.com/montezuma-p/my-systems-showcase)
+### 🖥️ **LINUX LABS & DOCUMENTATION**
+
+<details>
+<summary><b>🐧 My Systems Showcase</b> — Documentação completa dos meus setups Linux</summary>
+
+<br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVlYXdmaDR6MnN6anh2cTdjMWNnZGdubnE5ZWFqM3VuZ2pxemx2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPnAAJxXTvpLwJy/giphy.gif" width="300"/>
 
-**documentação completa dos meus setups linux**
+Configs de dual-boot, labs KVM/QEMU, ambientes de pentesting, setups Whonix/Tor de privacidade. Tudo que você precisa pra montar um playground Linux maneiro.
 
-Configs de dual-boot, labs KVM/QEMU, ambientes de pentesting, setups Whonix/Tor de privacidade.  
-Tudo que você precisa pra montar um playground Linux maneiro.
+**Conteúdo:**
+- 🖥️ Dual-boot Windows/Fedora otimizado
+- 🔬 Labs de virtualização com KVM/QEMU
+- 🔐 Ambientes de pentesting
+- 🌐 Setups Whonix/Tor para privacidade
+- ⚙️ Dotfiles e configurações
 
-_everything you need to build a sick Linux playground_
+**Stack:** `Shell Script` `KVM/QEMU` `Security` `Virtualization`
 
-`Shell Script` `KVM/QEMU` `Security` `Virtualization`
+**[→ Ver projeto](https://github.com/montezuma-p/my-systems-showcase)**
 
----
-
-### 💾 [backup universal](https://github.com/montezuma-p/backup-universal)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVpaWd5ZmZjNzNrNzMwMmpmd29xeDJhemJ4azczM3Y4MTc1OTN2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EmeieJAGjvUI/giphy.gif" width="300"/>
-
-**sistema inteligente de backup para linux**
-
-Detecta tipos de projeto, compacta com exclusões automáticas (adeus node_modules!),  
-mantém índice completo e restaura quando você precisar. Porque perder dados é coisa do passado.
-
-_because losing data is so 2010_
-
-`Python` `Backup` `Automation` `Data Protection`
+</details>
 
 ---
 
-### 🧹 [linux storage manager](https://github.com/montezuma-p/linux-storage-manager)
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFwaWhyd2lpdnBmMHV1d3Ewb2Fjc3VrenN0ZDdtNmw0emh3eXZtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rkis28kMJd1aE/giphy.gif" width="300"/>
-
-**sistema completo de gerenciamento e limpeza de storage**
-
-Disco cheio? Esse cara limpa node_modules antigos, arquiva com políticas de retenção automáticas,  
-compacta tudo num lixão organizado e ainda restaura quando você precisar. Nunca mais fique sem espaço.
-
-_never run out of disk space again_
-
-`Python` `Storage Management` `Automation` `Linux`
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 estatísticas do github 📊
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montezuma-p&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
 
@@ -247,9 +360,42 @@ _never run out of disk space again_
 
 provavelmente tô:
 - 🔧 quebrando meu setup linux (e consertando)
-- 📚 lendo docs às 3 da manhã
+- 📚 lendo docs às 3 da manhã  
 - 🎯 automatizando coisas que não precisam de automação
+- 🔐 auditando a segurança de tudo que vejo pela frente
 - ⚫⚪ pensando no Vasco
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 stack atual 🔥
+
+**Languages & Core:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Infrastructure & DevOps:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Security & Monitoring:**  
+![SELinux](https://img.shields.io/badge/SELinux-0066CC?style=for-the-badge&logo=linux&logoColor=white)
+![Firewalld](https://img.shields.io/badge/Firewalld-EE0000?style=for-the-badge&logo=linux&logoColor=white)
+
+**Backend & Databases:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**AI & Automation:**  
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -262,11 +408,42 @@ provavelmente tô:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montezuma-p/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/montezuma-p/s/J0TNbbzZaC)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/montezuma-p)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:montezuma.p@proton.me)
+
+---
+
+### 🌟 **gostou de algum projeto?**
+
+- ⭐ **Star nos repositórios** que você achou úteis
+- 🐛 **Abra issues** se encontrar bugs ou tiver sugestões  
+- 🤝 **Contribua** com PRs (leia o CONTRIBUTING.md primeiro)
+- 📢 **Compartilhe** com outros devs que possam se beneficiar
+- 💬 **Entre em contato** se quiser trocar ideia sobre segurança, automação ou Linux
+
+---
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZpZGNjeG9kOG92amhqZnFkaDRqcGtqcmI2YThyM2Jidmw1cTY3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
 
-### 🚀 **bora construir algo dahora juntos!** 🚀
+### 🚀 **bora construir sistemas mais seguros e resilientes juntos!** 🚀
+
+```bash
+# O que você vai encontrar por aqui:
+$ cat montezuma.profile
+> Security-first mindset
+> Automation-driven workflow  
+> Open source enthusiast
+> Documentation lover
+> Coffee-powered coder ☕
+> Vascaíno de coração ⚫⚪
+
+# Sempre aberto para:
+- 💼 Oportunidades profissionais
+- 🤝 Colaborações em projetos open source
+- 📚 Trocar conhecimento sobre security & DevOps
+- � Discussões sobre arquitetura de sistemas seguros
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Valeu%20pela%20visita!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 </div>
+
