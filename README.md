@@ -345,9 +345,11 @@ Configs de dual-boot, labs KVM/QEMU, ambientes de pentesting, setups Whonix/Tor 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montezuma-p&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+<div>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=montezuma-p&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" alt="GitHub Streak" />
-
 
 </div>
 
