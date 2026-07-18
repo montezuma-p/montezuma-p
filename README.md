@@ -106,7 +106,7 @@ An advanced package-analysis tool for Fedora/RHEL that detects security updates,
 
 ## 📊 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=montezuma-p&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=montezuma-p&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
 </div>
 

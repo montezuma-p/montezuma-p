@@ -106,7 +106,7 @@ Ferramenta de análise de pacotes para Fedora/RHEL que detecta atualizações de
 
 ## 📊 GitHub
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=montezuma-p&locale=pt-br&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=montezuma-p&locale=pt-br&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
 
 </div>
 
