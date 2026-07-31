@@ -27,7 +27,7 @@ Vasco da Gama ⚫⚪
 
 ## 💼 Experience
 
-### Tech Lead / Lead Backend Engineer — [JuSimples](https://jusimples.ai)
+### Dev Lead / Lead Backend Engineer — [JuSimples](https://jusimples.ai)
 
 *Apr 2026 – Present*
 
