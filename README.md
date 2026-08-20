@@ -81,8 +81,8 @@ Sole engineer responsible for building the AI platform from zero to first produc
 
 | | |
 |---|---|
-| **Languages & Backend** | Python (advanced) · FastAPI (advanced) · SQL / PostgreSQL with pgvector (advanced) · SQLAlchemy / Alembic · Rust (basic — CLI tooling, Cargo) · Shell Script (Bash/Zsh) · JavaScript / TypeScript (basic) |
-| **Cloud & Infrastructure** | GCP — Cloud Run, Cloud SQL, Secret Manager, Cloud Storage, Cloud Scheduler, IAM · Terraform · Docker · Linux administration (advanced) · Virtualization (KVM/VMware/VirtualBox) |
+| **Languages & Backend** | Python · FastAPI · SQL / PostgreSQL with pgvector · SQLAlchemy / Alembic · Rust (CLI tooling, Cargo) · Shell Script (Bash/Zsh) · JavaScript / TypeScript |
+| **Cloud & Infrastructure** | GCP — Cloud Run, Cloud SQL, Secret Manager, Cloud Storage, Cloud Scheduler, IAM · Terraform · Docker · Linux administration · Virtualization (KVM/VMware/VirtualBox) |
 | **AI & Data** | RAG · Vector databases (pgvector) · LLM integration (Gemini/OpenAI) · Embeddings (LegalBERT/sentence-transformers) · Web scraping |
 | **Observability & Security** | Structured JSON logging, OpenTelemetry, Prometheus · JWT, OAuth2, API keys, allowlist patterns · LGPD-aware telemetry and privacy |
 | **Tools** | Git, GitHub — PRs, Issues, Actions |

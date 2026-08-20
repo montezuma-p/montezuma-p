@@ -81,8 +81,8 @@ Engenheiro solo responsável por construir a plataforma do zero até o lançamen
 
 | | |
 |---|---|
-| **Linguagens & Backend** | Python (avançado) · FastAPI (avançado) · SQL / PostgreSQL com pgvector (avançado) · SQLAlchemy / Alembic · Rust (básico — CLIs, Cargo) · Shell Script (Bash/Zsh) · JavaScript / TypeScript (básico) |
-| **Cloud & Infraestrutura** | GCP — Cloud Run, Cloud SQL, Secret Manager, Cloud Storage, Cloud Scheduler, IAM · Terraform · Docker · Administração Linux (avançado) · Virtualização (KVM/VMware/VirtualBox) |
+| **Linguagens & Backend** | Python · FastAPI · SQL / PostgreSQL com pgvector · SQLAlchemy / Alembic · Rust (CLIs, Cargo) · Shell Script (Bash/Zsh) · JavaScript / TypeScript |
+| **Cloud & Infraestrutura** | GCP — Cloud Run, Cloud SQL, Secret Manager, Cloud Storage, Cloud Scheduler, IAM · Terraform · Docker · Administração Linux · Virtualização (KVM/VMware/VirtualBox) |
 | **IA & Dados** | RAG · Bancos vetoriais (pgvector) · Integração com LLMs (Gemini/OpenAI) · Embeddings (LegalBERT/sentence-transformers) · Web scraping |
 | **Observabilidade & Segurança** | Logging estruturado JSON, OpenTelemetry, Prometheus · JWT, OAuth2, API keys, allowlist patterns · LGPD — telemetria e privacidade |
 | **Ferramentas** | Git, GitHub — PRs, Issues, Actions |
