@@ -10,6 +10,22 @@
 
 </div>
 
+---
+
+<div align="center">
+
+### 🌟 Destaque — [Harken](https://github.com/montezuma-p/harken)
+
+[![harken stars](https://img.shields.io/github/stars/montezuma-p/harken?style=flat&logo=github&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/stargazers)
+[![harken release](https://img.shields.io/github/v/release/montezuma-p/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/releases)
+[![harken license](https://img.shields.io/github/license/montezuma-p/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/blob/main/LICENSE)
+
+**Transcrição de áudio local para o Claude Code e qualquer agente** — 100% offline, sem API key, binário estático em Rust rodando whisper.cpp.
+
+</div>
+
+---
+
 ```bash
 $ whoami
 pedro-montezuma — tech lead @ jusimples (legaltech AI brasileira)
@@ -61,10 +77,11 @@ Engenheiro solo responsável por construir a plataforma do zero até o lançamen
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat&logo=linux&logoColor=00FF41)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat&logo=gnubash&logoColor=00FF41)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat&logo=rust&logoColor=00FF41)
 
 | | |
 |---|---|
-| **Linguagens & Backend** | Python (avançado) · FastAPI (avançado) · SQL / PostgreSQL com pgvector (avançado) · SQLAlchemy / Alembic · Shell Script (Bash/Zsh) · JavaScript / TypeScript (básico) |
+| **Linguagens & Backend** | Python (avançado) · FastAPI (avançado) · SQL / PostgreSQL com pgvector (avançado) · SQLAlchemy / Alembic · Rust (básico — CLIs, Cargo) · Shell Script (Bash/Zsh) · JavaScript / TypeScript (básico) |
 | **Cloud & Infraestrutura** | GCP — Cloud Run, Cloud SQL, Secret Manager, Cloud Storage, Cloud Scheduler, IAM · Terraform · Docker · Administração Linux (avançado) · Virtualização (KVM/VMware/VirtualBox) |
 | **IA & Dados** | RAG · Bancos vetoriais (pgvector) · Integração com LLMs (Gemini/OpenAI) · Embeddings (LegalBERT/sentence-transformers) · Web scraping |
 | **Observabilidade & Segurança** | Logging estruturado JSON, OpenTelemetry, Prometheus · JWT, OAuth2, API keys, allowlist patterns · LGPD — telemetria e privacidade |
@@ -73,6 +90,18 @@ Engenheiro solo responsável por construir a plataforma do zero até o lançamen
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🎙️ [Harken](https://github.com/montezuma-p/harken)
+
+Transcrição de áudio local para o Claude Code e qualquer agente — em lote, 100% offline, sem API key. Um único binário estático em Rust rodando whisper.cpp: sem Python, sem ffmpeg, sem dependência de cloud. Vem como plugin/skill do Claude Code, permitindo que agentes transcrevam áudios do WhatsApp e gravações de reunião direto na máquina.
+
+```bash
+harken audio.opus                      # um arquivo
+harken ~/Downloads/reunioes/           # pasta inteira, recursivo
+harken export-chat.zip                 # extrai só os áudios de um export do WhatsApp
+```
+
+`Rust` `whisper.cpp` `Plugin Claude Code`
 
 ### 🔒 [Security Audit System](https://github.com/montezuma-p/security-audit-system)
 
@@ -106,7 +135,7 @@ Ferramenta de análise de pacotes para Fedora/RHEL que detecta atualizações de
 
 ## 📊 GitHub
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=montezuma-p&locale=pt-br&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
+<img src="./github-metrics.svg" alt="Linguagens mais usadas" />
 
 </div>
 
