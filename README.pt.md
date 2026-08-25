@@ -2,7 +2,7 @@
 
 **Idiomas:** [🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1800&color=00FF41&center=true&vCenter=true&width=800&lines=Oi!+Eu+sou+o+Pedro+Montezuma;Tech+Lead+%40+JuSimples;Backend+%E2%80%A2+Python+%E2%80%A2+GCP+%E2%80%A2+RAG;Linux+%26+seguran%C3%A7a+por+obsess%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1800&color=00FF41&center=true&vCenter=true&width=800&lines=Oi!+Eu+sou+o+Pedro+Montezuma;Dev+Lead+%40+JuSimples;Backend+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+RAG;Linux+%26+seguran%C3%A7a+por+obsess%C3%A3o" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF3N3N5dDJ5cjJkM2Q0ZW5vOGk2bGVzaWZrbXVoMGg5YnN4YnBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
@@ -19,8 +19,9 @@
 [![harken stars](https://img.shields.io/github/stars/montezuma-p/harken?style=flat&logo=github&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/stargazers)
 [![harken release](https://img.shields.io/github/v/release/montezuma-p/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/releases)
 [![harken license](https://img.shields.io/github/license/montezuma-p/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/blob/main/LICENSE)
+[![crates.io](https://img.shields.io/crates/v/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://crates.io/crates/harken)
 
-**Transcrição de áudio local para o Claude Code e qualquer agente** — 100% offline, sem API key, binário estático em Rust rodando whisper.cpp.
+**Seu agente não escuta áudio. O Harken resolve isso — localmente.** MCP server + CLI num único binário estático de 13 MB em Rust (whisper.cpp via FFI): sem Python, sem ffmpeg, sem API key. No crates.io.
 
 </div>
 
@@ -28,11 +29,11 @@
 
 ```bash
 $ whoami
-pedro-montezuma — tech lead @ jusimples (legaltech AI brasileira)
+pedro-montezuma — dev lead @ jusimples (legaltech AI brasileira)
 
 $ cat resumo.txt
-Engenheiro backend: Python, infraestrutura cloud e sistemas de IA.
-Construí uma plataforma de RAG jurídico do zero até produção — solo.
+Engenheiro backend: Python, Rust, infraestrutura cloud e sistemas de IA.
+Engenheiro principal de uma plataforma de RAG jurídico, do zero à produção.
 Security-first, observabilidade sempre, automatize tudo.
 
 $ cat /etc/time
@@ -43,7 +44,7 @@ Vasco da Gama ⚫⚪
 
 ## 💼 Experiência
 
-### Tech Lead / Lead Backend Engineer — [JuSimples](https://jusimples.ai)
+### Dev Lead / Lead Backend Engineer — [JuSimples](https://jusimples.ai)
 
 *abr/2026 – Atual*
 
@@ -57,7 +58,7 @@ Liderança técnica do backend e da infraestrutura em produção da plataforma d
 
 *nov/2025 – abr/2026*
 
-Engenheiro solo responsável por construir a plataforma do zero até o lançamento em produção (abr/2026).
+Engenheiro principal, responsável por levar a plataforma do zero até o lançamento em produção (abr/2026).
 
 - Backend em Python e FastAPI.
 - Pipeline de RAG sobre legislação brasileira (LegalBERT, pgvector).
@@ -83,7 +84,7 @@ Engenheiro solo responsável por construir a plataforma do zero até o lançamen
 |---|---|
 | **Linguagens & Backend** | Python · FastAPI · SQL / PostgreSQL com pgvector · SQLAlchemy / Alembic · Rust (CLIs, Cargo) · Shell Script (Bash/Zsh) · JavaScript / TypeScript |
 | **Cloud & Infraestrutura** | GCP — Cloud Run, Cloud SQL, Secret Manager, Cloud Storage, Cloud Scheduler, IAM · Terraform · Docker · Administração Linux · Virtualização (KVM/VMware/VirtualBox) |
-| **IA & Dados** | RAG · Bancos vetoriais (pgvector) · Integração com LLMs (Gemini/OpenAI) · Embeddings (LegalBERT/sentence-transformers) · Web scraping |
+| **IA & Dados** | RAG · Bancos vetoriais (pgvector) · Integração com LLMs (Gemini/OpenAI) · MCP servers (Model Context Protocol) · Transcrição local (whisper.cpp) · Embeddings (LegalBERT/sentence-transformers) · Web scraping |
 | **Observabilidade & Segurança** | Logging estruturado JSON, OpenTelemetry, Prometheus · JWT, OAuth2, API keys, allowlist patterns · LGPD — telemetria e privacidade |
 | **Ferramentas** | Git, GitHub — PRs, Issues, Actions |
 
@@ -93,33 +94,16 @@ Engenheiro solo responsável por construir a plataforma do zero até o lançamen
 
 ### 🎙️ [Harken](https://github.com/montezuma-p/harken)
 
-Transcrição de áudio local para o Claude Code e qualquer agente — em lote, 100% offline, sem API key. Um único binário estático em Rust rodando whisper.cpp: sem Python, sem ffmpeg, sem dependência de cloud. Vem como plugin/skill do Claude Code, permitindo que agentes transcrevam áudios do WhatsApp e gravações de reunião direto na máquina.
+Transcrição de áudio para agentes de IA, 100% offline. Como **MCP server**, dá a qualquer agente (Claude Code incluso) a capacidade de ouvir áudio; como CLI, transcreve arquivos e pastas em lote. Um único binário estático de 13 MB em Rust sobre whisper.cpp via FFI direta — sem Python, sem ffmpeg, sem API key. Publicado no [crates.io](https://crates.io/crates/harken), MIT/Apache.
 
 ```bash
 harken audio.opus                      # um arquivo
 harken ~/Downloads/reunioes/           # pasta inteira, recursivo
 harken export-chat.zip                 # extrai só os áudios de um export do WhatsApp
+harken mcp                             # MCP server: dá ouvidos ao seu agente
 ```
 
-`Rust` `whisper.cpp` `Plugin Claude Code`
-
-### 🔒 [Security Audit System](https://github.com/montezuma-p/security-audit-system)
-
-Suíte de auditoria para servidores Linux que monitora 7 camadas críticas (firewall, portas, CVEs, permissões), gera score de segurança (0–100) e relatórios HTML, com sanitização de dados sensíveis e modos offline/local/full-AI.
-
-```bash
-./security_audit.sh --no-ai       # coleta local, zero cloud
-./security_audit.sh --local-html  # relatório HTML, privacidade total
-./security_audit.sh --full        # análise profunda com Gemini AI
-```
-
-`Python` `Bash` `Gemini AI`
-
-### 📦 [DNF AI Analyzer](https://github.com/montezuma-p/dnf-ai-analyzer)
-
-Ferramenta de análise de pacotes para Fedora/RHEL que detecta atualizações de segurança, pacotes órfãos e problemas de cache, transformando logs em dashboards com insights de manutenção via LLM.
-
-`Python` `Gemini AI`
+`Rust` `whisper.cpp` `MCP` `crates.io`
 
 ### Outros projetos open source
 

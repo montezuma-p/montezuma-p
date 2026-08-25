@@ -2,7 +2,7 @@
 
 **Languages:** [🇺🇸 English](README.md) | [🇧🇷 Português](README.pt.md)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1800&color=00FF41&center=true&vCenter=true&width=800&lines=Hi!+I'm+Pedro+Montezuma;Tech+Lead+%40+JuSimples;Backend+%E2%80%A2+Python+%E2%80%A2+GCP+%E2%80%A2+RAG;Linux+%26+security+by+obsession" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1800&color=00FF41&center=true&vCenter=true&width=800&lines=Hi!+I'm+Pedro+Montezuma;Dev+Lead+%40+JuSimples;Backend+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+RAG;Linux+%26+security+by+obsession" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF3N3N5dDJ5cjJkM2Q0ZW5vOGk2bGVzaWZrbXVoMGg5YnN4YnBzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
@@ -19,8 +19,9 @@
 [![harken stars](https://img.shields.io/github/stars/montezuma-p/harken?style=flat&logo=github&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/stargazers)
 [![harken release](https://img.shields.io/github/v/release/montezuma-p/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/releases)
 [![harken license](https://img.shields.io/github/license/montezuma-p/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://github.com/montezuma-p/harken/blob/main/LICENSE)
+[![crates.io](https://img.shields.io/crates/v/harken?style=flat&logoColor=00FF41&color=0D1117&labelColor=0D1117)](https://crates.io/crates/harken)
 
-**Local audio transcription for Claude Code and any agent** — fully offline, no API key, single static Rust binary powered by whisper.cpp.
+**Your agent cannot listen to audio. Harken fixes that — locally.** MCP server + CLI in a single 13 MB static Rust binary (whisper.cpp via FFI): no Python, no ffmpeg, no API key. On crates.io.
 
 </div>
 
@@ -28,11 +29,11 @@
 
 ```bash
 $ whoami
-pedro-montezuma — tech lead @ jusimples (brazilian legaltech AI)
+pedro-montezuma — dev lead @ jusimples (brazilian legaltech AI)
 
 $ cat summary.txt
-Backend engineer: Python, cloud infrastructure and AI systems.
-Built a legal RAG platform from zero to production — solo.
+Backend engineer: Python, Rust, cloud infrastructure and AI systems.
+Primary engineer of a legal RAG platform, zero to production.
 Security-first mindset, observability always, automate everything.
 
 $ cat /etc/team
@@ -57,7 +58,7 @@ Technical lead for the backend and production infrastructure of JuSimples' Brazi
 
 *Nov 2025 – Apr 2026*
 
-Sole engineer responsible for building the AI platform from zero to first production launch (April 2026).
+Primary engineer responsible for taking the AI platform from zero to first production launch (April 2026).
 
 - Backend in Python and FastAPI.
 - RAG pipeline over Brazilian legislation (LegalBERT, pgvector).
@@ -83,7 +84,7 @@ Sole engineer responsible for building the AI platform from zero to first produc
 |---|---|
 | **Languages & Backend** | Python · FastAPI · SQL / PostgreSQL with pgvector · SQLAlchemy / Alembic · Rust (CLI tooling, Cargo) · Shell Script (Bash/Zsh) · JavaScript / TypeScript |
 | **Cloud & Infrastructure** | GCP — Cloud Run, Cloud SQL, Secret Manager, Cloud Storage, Cloud Scheduler, IAM · Terraform · Docker · Linux administration · Virtualization (KVM/VMware/VirtualBox) |
-| **AI & Data** | RAG · Vector databases (pgvector) · LLM integration (Gemini/OpenAI) · Embeddings (LegalBERT/sentence-transformers) · Web scraping |
+| **AI & Data** | RAG · Vector databases (pgvector) · LLM integration (Gemini/OpenAI) · MCP servers (Model Context Protocol) · Local speech-to-text (whisper.cpp) · Embeddings (LegalBERT/sentence-transformers) · Web scraping |
 | **Observability & Security** | Structured JSON logging, OpenTelemetry, Prometheus · JWT, OAuth2, API keys, allowlist patterns · LGPD-aware telemetry and privacy |
 | **Tools** | Git, GitHub — PRs, Issues, Actions |
 
@@ -93,33 +94,16 @@ Sole engineer responsible for building the AI platform from zero to first produc
 
 ### 🎙️ [Harken](https://github.com/montezuma-p/harken)
 
-Local audio transcription for Claude Code and any agent — batch, fully offline, no API key. A single static Rust binary powered by whisper.cpp: no Python, no ffmpeg, no cloud dependency. Ships as a Claude Code plugin/skill so agents transcribe voice notes and meeting recordings on-device.
+Speech-to-text for AI agents, fully offline. As an **MCP server**, it gives any agent (Claude Code included) the ability to hear audio; as a CLI, it batch-transcribes files and folders. One 13 MB static Rust binary on whisper.cpp via direct FFI — no Python, no ffmpeg, no API key. Published on [crates.io](https://crates.io/crates/harken), MIT/Apache.
 
 ```bash
 harken voice-note.opus                 # one file
 harken ~/Downloads/meetings/           # whole folder, recursive
 harken chat-export.zip                 # pull voice notes straight out of a WhatsApp export
+harken mcp                             # MCP server: give your agent ears
 ```
 
-`Rust` `whisper.cpp` `Claude Code Plugin`
-
-### 🔒 [Security Audit System](https://github.com/montezuma-p/security-audit-system)
-
-A professional-grade security audit suite for Linux servers monitoring 7 critical layers (firewall, ports, CVEs, permissions), generating a security score (0–100) and HTML reports, with sensitive-data sanitization and offline/local/full-AI modes.
-
-```bash
-./security_audit.sh --no-ai       # local collection, zero cloud
-./security_audit.sh --local-html  # HTML report, full privacy
-./security_audit.sh --full        # deep analysis with Gemini AI
-```
-
-`Python` `Bash` `Gemini AI`
-
-### 📦 [DNF AI Analyzer](https://github.com/montezuma-p/dnf-ai-analyzer)
-
-An advanced package-analysis tool for Fedora/RHEL that detects security updates, orphaned packages, and cache issues, turning raw logs into dashboards with LLM-driven maintenance insights.
-
-`Python` `Gemini AI`
+`Rust` `whisper.cpp` `MCP` `crates.io`
 
 ### Other open source projects
 
