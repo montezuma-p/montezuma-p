@@ -8,6 +8,7 @@ Linux, Rust, C++. Dev lead at [JuSimples](https://jusimples.ai) by day. Rio de J
 
 | | |
 |---|---|
+| `2026-11-04` | [uutils/coreutils #15977](https://github.com/uutils/coreutils/pull/15977) — merged. `df` reports an over-mounted device instead of printing the wrong file system; fixes GNU test `df/over-mount-device`. Rust. |
 | `2026-10-24` | [imiric/qml-niri #25](https://github.com/imiric/qml-niri/pull/25) — merged. `CastModel` exposing niri screencasts to QML. C++ / Wayland. |
 | `2026-08-25` | [harken v0.8.0](https://github.com/montezuma-p/harken/releases/tag/v0.8.0) — MCP server + CLI, offline speech-to-text for agents. 13 MB static Rust binary. On [crates.io](https://crates.io/crates/harken). |
 | `2026-04` | [JuSimples](https://jusimples.ai) in production — legal RAG over Brazilian legislation, FastAPI + pgvector on GCP. Primary engineer, zero to launch. |
